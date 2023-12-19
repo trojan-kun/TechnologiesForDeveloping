@@ -1,0 +1,5 @@
+D:\РЭУ\трспк\DZ 7-3\obj\Debug\net6.0\DZ 7-3.csproj.AssemblyReference.cache
+D:\РЭУ\трспк\DZ 7-3\obj\Debug\net6.0\DZ 7-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\РЭУ\трспк\DZ 7-3\obj\Debug\net6.0\DZ 7-3.AssemblyInfoInputs.cache
+D:\РЭУ\трспк\DZ 7-3\obj\Debug\net6.0\DZ 7-3.AssemblyInfo.cs
+D:\РЭУ\трспк\DZ 7-3\obj\Debug\net6.0\DZ 7-3.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+D:\РЭУ\трспк\DZ 8 2\bin\Debug\net6.0\DZ 8 2.exe
+D:\РЭУ\трспк\DZ 8 2\bin\Debug\net6.0\DZ 8 2.deps.json
+D:\РЭУ\трспк\DZ 8 2\bin\Debug\net6.0\DZ 8 2.runtimeconfig.json
+D:\РЭУ\трспк\DZ 8 2\bin\Debug\net6.0\DZ 8 2.dll
+D:\РЭУ\трспк\DZ 8 2\bin\Debug\net6.0\DZ 8 2.pdb
+D:\РЭУ\трспк\DZ 8 2\obj\Debug\net6.0\DZ 8 2.csproj.AssemblyReference.cache
+D:\РЭУ\трспк\DZ 8 2\obj\Debug\net6.0\DZ 8 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\РЭУ\трспк\DZ 8 2\obj\Debug\net6.0\DZ 8 2.AssemblyInfoInputs.cache
+D:\РЭУ\трспк\DZ 8 2\obj\Debug\net6.0\DZ 8 2.AssemblyInfo.cs
+D:\РЭУ\трспк\DZ 8 2\obj\Debug\net6.0\DZ 8 2.csproj.CoreCompileInputs.cache
+D:\РЭУ\трспк\DZ 8 2\obj\Debug\net6.0\DZ 8 2.dll
+D:\РЭУ\трспк\DZ 8 2\obj\Debug\net6.0\refint\DZ 8 2.dll
+D:\РЭУ\трспк\DZ 8 2\obj\Debug\net6.0\DZ 8 2.pdb
+D:\РЭУ\трспк\DZ 8 2\obj\Debug\net6.0\DZ 8 2.genruntimeconfig.cache
+D:\РЭУ\трспк\DZ 8 2\obj\Debug\net6.0\ref\DZ 8 2.dll

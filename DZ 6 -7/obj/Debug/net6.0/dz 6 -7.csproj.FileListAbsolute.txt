@@ -1,0 +1,15 @@
+D:\РЭУ\трспк\dz 6 -7\bin\Debug\net6.0\dz 6 -7.exe
+D:\РЭУ\трспк\dz 6 -7\bin\Debug\net6.0\dz 6 -7.deps.json
+D:\РЭУ\трспк\dz 6 -7\bin\Debug\net6.0\dz 6 -7.runtimeconfig.json
+D:\РЭУ\трспк\dz 6 -7\bin\Debug\net6.0\dz 6 -7.dll
+D:\РЭУ\трспк\dz 6 -7\bin\Debug\net6.0\dz 6 -7.pdb
+D:\РЭУ\трспк\dz 6 -7\obj\Debug\net6.0\dz 6 -7.csproj.AssemblyReference.cache
+D:\РЭУ\трспк\dz 6 -7\obj\Debug\net6.0\dz 6 -7.GeneratedMSBuildEditorConfig.editorconfig
+D:\РЭУ\трспк\dz 6 -7\obj\Debug\net6.0\dz 6 -7.AssemblyInfoInputs.cache
+D:\РЭУ\трспк\dz 6 -7\obj\Debug\net6.0\dz 6 -7.AssemblyInfo.cs
+D:\РЭУ\трспк\dz 6 -7\obj\Debug\net6.0\dz 6 -7.csproj.CoreCompileInputs.cache
+D:\РЭУ\трспк\dz 6 -7\obj\Debug\net6.0\dz 6 -7.dll
+D:\РЭУ\трспк\dz 6 -7\obj\Debug\net6.0\refint\dz 6 -7.dll
+D:\РЭУ\трспк\dz 6 -7\obj\Debug\net6.0\dz 6 -7.pdb
+D:\РЭУ\трспк\dz 6 -7\obj\Debug\net6.0\dz 6 -7.genruntimeconfig.cache
+D:\РЭУ\трспк\dz 6 -7\obj\Debug\net6.0\ref\dz 6 -7.dll

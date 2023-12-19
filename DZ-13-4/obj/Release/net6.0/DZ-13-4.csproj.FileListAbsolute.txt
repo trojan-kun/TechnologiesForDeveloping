@@ -1,0 +1,5 @@
+D:\РЭУ\трспк\DZ-13-4\obj\Release\net6.0\DZ-13-4.csproj.AssemblyReference.cache
+D:\РЭУ\трспк\DZ-13-4\obj\Release\net6.0\DZ-13-4.GeneratedMSBuildEditorConfig.editorconfig
+D:\РЭУ\трспк\DZ-13-4\obj\Release\net6.0\DZ-13-4.AssemblyInfoInputs.cache
+D:\РЭУ\трспк\DZ-13-4\obj\Release\net6.0\DZ-13-4.AssemblyInfo.cs
+D:\РЭУ\трспк\DZ-13-4\obj\Release\net6.0\DZ-13-4.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+D:\РЭУ\трспк\9-3 remaster\bin\Debug\net6.0\9-3 remaster.exe
+D:\РЭУ\трспк\9-3 remaster\bin\Debug\net6.0\9-3 remaster.deps.json
+D:\РЭУ\трспк\9-3 remaster\bin\Debug\net6.0\9-3 remaster.runtimeconfig.json
+D:\РЭУ\трспк\9-3 remaster\bin\Debug\net6.0\9-3 remaster.dll
+D:\РЭУ\трспк\9-3 remaster\bin\Debug\net6.0\9-3 remaster.pdb
+D:\РЭУ\трспк\9-3 remaster\obj\Debug\net6.0\9-3 remaster.csproj.AssemblyReference.cache
+D:\РЭУ\трспк\9-3 remaster\obj\Debug\net6.0\9-3 remaster.GeneratedMSBuildEditorConfig.editorconfig
+D:\РЭУ\трспк\9-3 remaster\obj\Debug\net6.0\9-3 remaster.AssemblyInfoInputs.cache
+D:\РЭУ\трспк\9-3 remaster\obj\Debug\net6.0\9-3 remaster.AssemblyInfo.cs
+D:\РЭУ\трспк\9-3 remaster\obj\Debug\net6.0\9-3 remaster.csproj.CoreCompileInputs.cache
+D:\РЭУ\трспк\9-3 remaster\obj\Debug\net6.0\9-3 remaster.dll
+D:\РЭУ\трспк\9-3 remaster\obj\Debug\net6.0\refint\9-3 remaster.dll
+D:\РЭУ\трспк\9-3 remaster\obj\Debug\net6.0\9-3 remaster.pdb
+D:\РЭУ\трспк\9-3 remaster\obj\Debug\net6.0\9-3 remaster.genruntimeconfig.cache
+D:\РЭУ\трспк\9-3 remaster\obj\Debug\net6.0\ref\9-3 remaster.dll
